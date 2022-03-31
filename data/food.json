@@ -1,0 +1,74 @@
+{
+"fr": [
+        {
+            "Description":"Croque Monsieur",
+            "Prix":2
+        },
+        {
+            "Description":"Sandwich Jambon",
+            "Prix":1
+        },
+        {
+            "Description":"Fites",
+            "Prix":1
+        },
+        {
+            "Description":"Chips",
+            "Prix":1
+        }
+    ],
+"en": [
+    {
+        "Description":"Croque Monsieur",
+        "Price":2
+    },
+    {
+        "Description":"Ham Sandwich",
+        "Price":1
+    },
+    {
+        "Description":"french fries",
+        "Price":1
+    },
+    {
+        "Description":"Chips",
+        "Price":1
+    }
+    ],
+"nl": [
+    {
+        "Beschrijving":"Croque Monsieur",
+        "Prijs":2
+    },
+    {
+        "Beschrijving":"broodje ham",
+        "Prijs":1
+    },
+    {
+        "Beschrijving":"patat",
+        "Prijs":1
+    },
+    {
+        "Beschrijving":"friet",
+        "Prijs":1
+    }
+    ],
+"de": [
+    {
+        "Beschreibung":"Croque Monsieur",
+        "Preis":2
+    },
+    {
+        "Beschreibung":"Schinken-Sandwich",
+        "Preis":1
+    },
+    {
+        "Beschreibung":"Pommes frites",
+        "Preis":1
+    },
+    {
+        "Beschreibung":"Chips",
+        "Preis":1
+    }
+    ]
+}

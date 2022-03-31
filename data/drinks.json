@@ -1,0 +1,58 @@
+{
+"fr": [
+        {
+            "Description":"Bière",
+            "Prix":2
+        },
+        {
+            "Description":"Café",
+            "Prix":1
+        },
+        {
+            "Description":"Coca Cola",
+            "Prix":1
+        }
+    ],
+"en": [
+        {
+            "Description":"Beer",
+            "Price":2
+        },
+        {
+            "Description":"Coffe",
+            "Price":1
+        },
+        {
+            "Description":"Coca Cola",
+            "Price":1
+        }
+    ],
+"nl": [
+        {
+            "Beschrijving":"Bier",
+            "Prijs":2
+        },
+        {
+            "Beschrijving":"Koffie",
+            "Prijs":1
+        },
+        {
+            "Beschrijving":"Coca Cola",
+            "Prijs":1
+        }
+    ],
+"de": [
+        {
+            "Beschreibung":"Bier",
+            "Preis":2
+        },
+        {
+            "Beschreibung":"Kaffee",
+            "Preis":1
+        },
+        {
+            "Beschreibung":"Coca Cola",
+            "Preis":1
+        }
+    ]
+}

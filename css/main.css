@@ -1,0 +1,59 @@
+.navbar{
+    background: #1C8D73;
+    padding: 10px 10px;
+    
+    }
+
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+  }
+  .navbar li {
+    float: left;
+    padding: 10px 25px;
+    font-size: larger;
+    color: white;
+  }
+
+  .navbar a {
+    display: block;
+    padding : 0px;
+    float: left;
+    border: 0px;
+    
+  }
+  .navbar-left {
+    float: left;
+    padding: 0px;
+  }
+  .navbar-right {
+    float: right;
+    padding:  10px 0px;
+  }
+
+  h1 {
+    font-size: xx-large;
+    text-align: center;
+    padding : 15px;
+  }
+
+  h4 {
+    padding-top: 15px;;
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .columns {
+    margin: 5px;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .button {
+      border: 0px;
+  }
