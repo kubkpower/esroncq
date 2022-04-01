@@ -47,6 +47,7 @@
 
   .columns {
     margin: 5px;
+    text-align: center;
   }
 
   table {
@@ -57,3 +58,8 @@
   .button {
       border: 0px;
   }
+
+  body {
+    text-align: center;
+  }
+  
