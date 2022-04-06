@@ -1,58 +1,90 @@
 {
 "fr": [
         {
-            "Description":"Bière",
-            "Prix":2
+            "Description":"Gobelet ESR",
+            "Prix":1
         },
         {
             "Description":"Café",
             "Prix":1
         },
         {
-            "Description":"Coca Cola",
+            "Description":"Soft (au verre) : Coca, Fanta, Ice Team, Eau gazeuse",
             "Prix":1
+        },
+        {
+            "Description":"Bière 'St Omer' (33cl)",
+            "Prix":2.5
+        },
+        {
+            "Description":"Freixenet / Rosé (au verre)",
+            "Prix":1.5
         }
     ],
 "en": [
         {
-            "Description":"Beer",
-            "Price":2
-        },
-        {
-            "Description":"Coffe",
+            "Description":"ESR Reusable cup",
             "Price":1
         },
         {
-            "Description":"Coca Cola",
+            "Description":"Coffee",
             "Price":1
+        },
+        {
+            "Description":"Soft Drink (cup) : Coca Cola, Fanta, Ice Team, sparkling water",
+            "Price":1
+        },
+        {
+            "Description":"Beer 'St Omer' (33cl)",
+            "Price":2.5
+        },
+        {
+            "Description":"Freixenet / rosé wine (cup)",
+            "Price":1.5
         }
     ],
 "nl": [
-        {
-            "Beschrijving":"Bier",
-            "Prijs":2
-        },
-        {
-            "Beschrijving":"Koffie",
-            "Prijs":1
-        },
-        {
-            "Beschrijving":"Coca Cola",
-            "Prijs":1
-        }
-    ],
+    {
+        "Beschrijving":"Herbruikbare beker",
+        "Prijs":1
+    },
+    {
+        "Beschrijving":"Koffie",
+        "Prijs":1
+    },
+    {
+        "Beschrijving":"Soft Drink (Kopje) : Coca Cola, Fanta, Ice Team, Spuitwater",
+        "Prijs":1
+    },
+    {
+        "Beschrijving":"Bier 'St Omer' (33cl)",
+        "Prijs":2.5
+    },
+    {
+        "Beschrijving":"Freixenet / rosé wijn (Kopje)",
+        "Prijs":1.5
+    }
+],
 "de": [
-        {
-            "Beschreibung":"Bier",
-            "Preis":2
-        },
-        {
-            "Beschreibung":"Kaffee",
-            "Preis":1
-        },
-        {
-            "Beschreibung":"Coca Cola",
-            "Preis":1
-        }
-    ]
+    {
+        "Beschreibung":"ESR Mehrwegbecher",
+        "Preis":1
+    },
+    {
+        "Beschreibung":"Kaffee",
+        "Preis":1
+    },
+    {
+        "Beschreibung":"Erfrischungsgetränk (im glas) : Coca Cola, Fanta, Ice Team, Sprudel",
+        "Preis":1
+    },
+    {
+        "Beschreibung":"Bier 'St Omer' (33cl)",
+        "Preis":2
+    },
+    {
+        "Beschreibung":"Freixenet / Roséwein (im glass)",
+        "Preis":1.5
+    }
+]
 }

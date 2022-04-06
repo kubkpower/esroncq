@@ -36,8 +36,8 @@ ul{
 .logo{
     display: inline-block;
     color: var(--white);
-    font-size: 60px;
-    margin-left: 10px;
+    font-size: x-large;
+    margin-left: 5px;
 }
 
 /* Nav menu */
@@ -66,7 +66,7 @@ ul{
 .hamb{
     cursor: pointer;
     float: right;
-    padding: 40px 20px;
+    padding: 20px 20px;
 }/* Style label tag */
 
 .hamb-line {
@@ -97,6 +97,7 @@ ul{
 
 .side-menu {
     display: none;
+    visibility: hidden;
 } /* Hide checkbox */
 
 /* Toggle menu icon */

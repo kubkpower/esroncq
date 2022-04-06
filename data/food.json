@@ -1,74 +1,138 @@
 {
 "fr": [
-        {
-            "Description":"Croque Monsieur",
-            "Prix":2
-        },
-        {
-            "Description":"Sandwich Jambon",
-            "Prix":1
-        },
-        {
-            "Description":"Fites",
-            "Prix":1
-        },
-        {
-            "Description":"Chips",
-            "Prix":1
-        }
-    ],
-"en": [
     {
-        "Description":"Croque Monsieur",
-        "Price":2
+        "Description":"Sandwich Fromage",
+        "Prix":2.5
     },
     {
-        "Description":"Ham Sandwich",
-        "Price":1
+        "Description":"Sandwich Dinde",
+        "Prix":2.5
     },
     {
-        "Description":"french fries",
-        "Price":1
+        "Description":"Sandwich Merguez / Saucisse",
+        "Prix":3
+    },
+    {
+        "Description":"Américain Merguez / Saucisse",
+        "Prix":6
+    },
+    {
+        "Description":"Fites",
+        "Prix":3
     },
     {
         "Description":"Chips",
-        "Price":1
-    }
-    ],
-"nl": [
-    {
-        "Beschrijving":"Croque Monsieur",
-        "Prijs":2
+        "Prix":0.5
     },
     {
-        "Beschrijving":"broodje ham",
-        "Prijs":1
+        "Description":"Mars / Twix",
+        "Prix":1
+    },
+    {
+        "Description":"Bonbons",
+        "Prix":2
+    }
+],
+"en": [
+    {
+        "Description":"Cheese Sandwich",
+        "Price":2.5
+    },
+    {
+        "Description":"Turkey Sandwich",
+        "Price":2.5
+    },
+    {
+        "Description":"Sausage / Merguez sandwich",
+        "Price":3
+    },
+    {
+        "Description":"Sausage / Merguez sandwich + fries",
+        "Price":6
+    },
+    {
+        "Description":"french fries",
+        "Price":3
+    },
+    {
+        "Description":"Chips",
+        "Price":0.5
+    },
+    {
+        "Description":"Mars / Twix",
+        "Price":1
+    },
+    {
+        "Description":"Sweets",
+        "Price":2
+    }
+],
+"nl": [
+    {
+        "Beschrijving":"Broodje kaas",
+        "Prijs":2.5
+    },
+    {
+        "Beschrijving":"Turkije Sandwich",
+        "Prijs":2.5
+    },
+    {
+        "Beschrijving":"Broodje Merguez / Worst",
+        "Prijs":3
+    },
+    {
+        "Beschrijving":"Broodje Merguez / Worst + patat",
+        "Prijs":6
     },
     {
         "Beschrijving":"patat",
-        "Prijs":1
+        "Prijs":3
     },
     {
         "Beschrijving":"friet",
+        "Prijs":0.5
+    },
+    {
+        "Beschrijving":"Mars / Twix",
         "Prijs":1
+    },
+    {
+        "Beschrijving":"Snoep",
+        "Prijs":2
     }
     ],
 "de": [
     {
-        "Beschreibung":"Croque Monsieur",
+        "Beschreibung":"Käsebrot",
+        "Preis":2.5
+    },
+    {
+        "Beschreibung":"Truthahn Sandwich",
+        "Preis":2.5
+    },
+    {
+        "Beschreibung":"Wurstsandwich / Merguez",
         "Preis":2
     },
     {
-        "Beschreibung":"Schinken-Sandwich",
-        "Preis":1
+        "Beschreibung":"Wurstsandwich / Merguez + Pommes frites",
+        "Preis":6
     },
     {
         "Beschreibung":"Pommes frites",
-        "Preis":1
+        "Preis":3
     },
     {
         "Beschreibung":"Chips",
+        "Preis":0.5
+    },
+    {
+        "Beschreibung":"Mars / Twix",
         "Preis":1
+    },
+    {
+        "Beschreibung":"Süßigkeiten",
+        "Preis":2
     }
     ]
 }
